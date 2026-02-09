@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/master/0621-task-scheduler) |
+| [0641-design-circular-deque](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/master/0641-design-circular-deque) |
 ## Hash Table
 |  |
 | ------- |
@@ -25,4 +26,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/master/0621-task-scheduler) |
+## Linked List
+|  |
+| ------- |
+| [0641-design-circular-deque](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/master/0641-design-circular-deque) |
+## Design
+|  |
+| ------- |
+| [0641-design-circular-deque](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/master/0641-design-circular-deque) |
+## Queue
+|  |
+| ------- |
+| [0641-design-circular-deque](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/master/0641-design-circular-deque) |
 <!---LeetCode Topics End-->
