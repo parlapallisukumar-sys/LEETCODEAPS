@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0695-max-area-of-island/) | Medium |
 | [0841-keys-and-rooms](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0841-keys-and-rooms/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1203-sort-items-by-groups-respecting-dependencies](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/1203-sort-items-by-groups-respecting-dependencies/) | Hard |
 | [1971-find-if-path-exists-in-graph](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-keys-and-rooms](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0841-keys-and-rooms/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0994-rotting-oranges/) | Medium |
+| [1203-sort-items-by-groups-respecting-dependencies](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/1203-sort-items-by-groups-respecting-dependencies/) | Hard |
 | [1971-find-if-path-exists-in-graph](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0547-number-of-provinces/) | Medium |
 | [0841-keys-and-rooms](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0841-keys-and-rooms/) | Medium |
 | [0997-find-the-town-judge](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0997-find-the-town-judge/) | Easy |
+| [1203-sort-items-by-groups-respecting-dependencies](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/1203-sort-items-by-groups-respecting-dependencies/) | Hard |
 | [1971-find-if-path-exists-in-graph](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -140,4 +143,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0210-course-schedule-ii/) | Medium |
+| [1203-sort-items-by-groups-respecting-dependencies](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/1203-sort-items-by-groups-respecting-dependencies/) | Hard |
 <!---LeetCode Topics End-->
