@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0621-task-scheduler](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/master/0621-task-scheduler) |
 | [0641-design-circular-deque](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/master/0641-design-circular-deque) |
+| [0695-max-area-of-island](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0695-max-area-of-island/) | Medium |
 | [0994-rotting-oranges](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0994-rotting-oranges/) | Medium |
 | [0997-find-the-town-judge](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0997-find-the-town-judge/) | Easy |
 ## Hash Table
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/master/0145-binary-tree-postorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/master/0257-binary-tree-paths) |
 | [0547-number-of-provinces](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0547-number-of-provinces/) | Medium |
+| [0695-max-area-of-island](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0695-max-area-of-island/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Binary Tree
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/master/0112-path-sum) |
 | [0547-number-of-provinces](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0547-number-of-provinces/) | Medium |
+| [0695-max-area-of-island](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0695-max-area-of-island/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0994-rotting-oranges/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
@@ -116,9 +119,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0547-number-of-provinces](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0547-number-of-provinces/) | Medium |
+| [0695-max-area-of-island](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0695-max-area-of-island/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0695-max-area-of-island](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0695-max-area-of-island/) | Medium |
 | [0994-rotting-oranges](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0994-rotting-oranges/) | Medium |
 <!---LeetCode Topics End-->
