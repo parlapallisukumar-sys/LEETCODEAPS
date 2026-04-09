@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0200-number-of-islands](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0200-number-of-islands/) | Medium |
 | [0542-01-matrix](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0542-01-matrix/) | Medium |
 | [0621-task-scheduler](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/master/0621-task-scheduler) |
 | [0641-design-circular-deque](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/master/0641-design-circular-deque) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0210-course-schedule-ii/) | Medium |
 | [0257-binary-tree-paths](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/master/0257-binary-tree-paths) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0210-course-schedule-ii/) | Medium |
 | [0542-01-matrix](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0542-01-matrix/) | Medium |
@@ -134,12 +137,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0200-number-of-islands](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0547-number-of-provinces/) | Medium |
 | [0695-max-area-of-island](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0695-max-area-of-island/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0200-number-of-islands](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0200-number-of-islands/) | Medium |
 | [0542-01-matrix](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0542-01-matrix/) | Medium |
 | [0695-max-area-of-island](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0695-max-area-of-island/) | Medium |
 | [0994-rotting-oranges](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0994-rotting-oranges/) | Medium |
