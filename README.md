@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0049-group-anagrams/) | Medium |
+| [0169-majority-element](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0169-majority-element/) | Easy |
 | [0200-number-of-islands](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0200-number-of-islands/) | Medium |
 | [0542-01-matrix](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0542-01-matrix/) | Medium |
 | [0621-task-scheduler](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/master/0621-task-scheduler) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0049-group-anagrams/) | Medium |
+| [0169-majority-element](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0202-happy-number/) | Easy |
 | [0621-task-scheduler](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0721-accounts-merge/) | Medium |
@@ -33,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0049-group-anagrams/) | Medium |
+| [0169-majority-element](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0169-majority-element/) | Easy |
 | [0621-task-scheduler](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0721-accounts-merge/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -43,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0169-majority-element/) | Easy |
 | [0621-task-scheduler](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/master/0621-task-scheduler) |
 ## Linked List
 | Problem Name | Difficulty |
@@ -185,4 +189,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0202-happy-number](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0202-happy-number/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
