@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0929-unique-email-addresses](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0929-unique-email-addresses/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0997-find-the-town-judge](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0997-find-the-town-judge/) | Easy |
+| [1763-longest-nice-substring](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/1763-longest-nice-substring/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/master/0257-binary-tree-paths) |
 | [0721-accounts-merge](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0721-accounts-merge/) | Medium |
 | [0929-unique-email-addresses](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0929-unique-email-addresses/) | Easy |
+| [1763-longest-nice-substring](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/1763-longest-nice-substring/) | Easy |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -194,8 +196,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0169-majority-element](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0169-majority-element/) | Easy |
 | [0190-reverse-bits](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0190-reverse-bits/) | Easy |
+| [1763-longest-nice-substring](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/1763-longest-nice-substring/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0190-reverse-bits](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0190-reverse-bits/) | Easy |
+| [1763-longest-nice-substring](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/1763-longest-nice-substring/) | Easy |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1763-longest-nice-substring](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/1763-longest-nice-substring/) | Easy |
 <!---LeetCode Topics End-->
