@@ -187,12 +187,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0062-unique-paths](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0062-unique-paths/) | Medium |
 | [0198-house-robber](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0198-house-robber/) | Medium |
 | [0542-01-matrix](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0542-01-matrix/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0062-unique-paths](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0062-unique-paths/) | Medium |
 | [0202-happy-number](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0202-happy-number/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Two Pointers
@@ -223,4 +225,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0973-k-closest-points-to-origin/) | Medium |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0062-unique-paths](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0062-unique-paths/) | Medium |
 <!---LeetCode Topics End-->
