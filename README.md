@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0169-majority-element/) | Easy |
 | [0198-house-robber](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0200-number-of-islands/) | Medium |
+| [0474-ones-and-zeroes](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0542-01-matrix](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0542-01-matrix/) | Medium |
 | [0621-task-scheduler](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/master/0621-task-scheduler) |
 | [0641-design-circular-deque](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/master/0641-design-circular-deque) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0049-group-anagrams/) | Medium |
 | [0257-binary-tree-paths](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/master/0257-binary-tree-paths) |
+| [0474-ones-and-zeroes](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0721-accounts-merge](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0721-accounts-merge/) | Medium |
 | [0929-unique-email-addresses](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0929-unique-email-addresses/) | Easy |
 | [1763-longest-nice-substring](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/1763-longest-nice-substring/) | Easy |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0062-unique-paths/) | Medium |
 | [0198-house-robber](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0198-house-robber/) | Medium |
+| [0474-ones-and-zeroes](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0542-01-matrix](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0542-01-matrix/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 ## Math
