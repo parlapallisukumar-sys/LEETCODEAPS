@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0695-max-area-of-island/) | Medium |
 | [0721-accounts-merge](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0721-accounts-merge/) | Medium |
 | [0733-flood-fill](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0733-flood-fill/) | Easy |
+| [0746-min-cost-climbing-stairs](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0929-unique-email-addresses](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0929-unique-email-addresses/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0994-rotting-oranges](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0994-rotting-oranges/) | Medium |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0198-house-robber](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0198-house-robber/) | Medium |
 | [0542-01-matrix](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0542-01-matrix/) | Medium |
+| [0746-min-cost-climbing-stairs](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
