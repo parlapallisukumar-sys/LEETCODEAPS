@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0049-group-anagrams/) | Medium |
+| [0078-subsets](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0078-subsets/) | Medium |
 | [0169-majority-element](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0169-majority-element/) | Easy |
 | [0198-house-robber](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0200-number-of-islands/) | Medium |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0078-subsets/) | Medium |
 | [0113-path-sum-ii](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/master/0257-binary-tree-paths) |
 ## String
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0078-subsets/) | Medium |
 | [0190-reverse-bits](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0190-reverse-bits/) | Easy |
 | [1763-longest-nice-substring](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/1763-longest-nice-substring/) | Easy |
 ## Sliding Window
