@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0721-accounts-merge/) | Medium |
 | [0733-flood-fill](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0733-flood-fill/) | Easy |
 | [0929-unique-email-addresses](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0929-unique-email-addresses/) | Easy |
+| [0973-k-closest-points-to-origin](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0994-rotting-oranges](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0994-rotting-oranges/) | Medium |
 | [0997-find-the-town-judge](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0997-find-the-town-judge/) | Easy |
 ## Hash Table
@@ -39,11 +40,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0169-majority-element/) | Easy |
 | [0621-task-scheduler](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0721-accounts-merge/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0621-task-scheduler](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/master/0621-task-scheduler) |
+| [0973-k-closest-points-to-origin](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -187,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0202-happy-number](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0202-happy-number/) | Easy |
+| [0973-k-closest-points-to-origin](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -196,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0169-majority-element](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0169-majority-element/) | Easy |
 | [0190-reverse-bits](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0190-reverse-bits/) | Easy |
+| [0973-k-closest-points-to-origin](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1763-longest-nice-substring](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/1763-longest-nice-substring/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -206,4 +211,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1763-longest-nice-substring](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/1763-longest-nice-substring/) | Easy |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0973-k-closest-points-to-origin/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0973-k-closest-points-to-origin/) | Medium |
 <!---LeetCode Topics End-->
