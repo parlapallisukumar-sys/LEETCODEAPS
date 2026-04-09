@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0046-permutations](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0046-permutations/) | Medium |
+| [0077-combinations](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0077-combinations/) | Medium |
 | [0078-subsets](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0078-subsets/) | Medium |
 | [0113-path-sum-ii](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/master/0257-binary-tree-paths) |
