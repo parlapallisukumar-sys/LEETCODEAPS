@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0542-01-matrix](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0542-01-matrix/) | Medium |
 | [0621-task-scheduler](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/master/0621-task-scheduler) |
 | [0641-design-circular-deque](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/master/0641-design-circular-deque) |
 | [0695-max-area-of-island](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0695-max-area-of-island/) | Medium |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/master/0112-path-sum) |
 | [0207-course-schedule](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0210-course-schedule-ii/) | Medium |
+| [0542-01-matrix](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0542-01-matrix/) | Medium |
 | [0547-number-of-provinces](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0547-number-of-provinces/) | Medium |
 | [0695-max-area-of-island](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0695-max-area-of-island/) | Medium |
 | [0841-keys-and-rooms](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0841-keys-and-rooms/) | Medium |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0542-01-matrix](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0542-01-matrix/) | Medium |
 | [0695-max-area-of-island](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0695-max-area-of-island/) | Medium |
 | [0994-rotting-oranges](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0994-rotting-oranges/) | Medium |
 ## Topological Sort
@@ -146,4 +149,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0210-course-schedule-ii/) | Medium |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/1203-sort-items-by-groups-respecting-dependencies/) | Hard |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0542-01-matrix](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0542-01-matrix/) | Medium |
 <!---LeetCode Topics End-->
