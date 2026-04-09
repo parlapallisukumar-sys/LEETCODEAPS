@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/master/0621-task-scheduler) |
 | [0641-design-circular-deque](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/master/0641-design-circular-deque) |
 | [0695-max-area-of-island](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0695-max-area-of-island/) | Medium |
+| [0721-accounts-merge](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0721-accounts-merge/) | Medium |
 | [0733-flood-fill](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0994-rotting-oranges/) | Medium |
 | [0997-find-the-town-judge](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0997-find-the-town-judge/) | Easy |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0621-task-scheduler](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/master/0621-task-scheduler) |
+| [0721-accounts-merge](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0721-accounts-merge/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0997-find-the-town-judge](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0997-find-the-town-judge/) | Easy |
 ## Greedy
@@ -26,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0621-task-scheduler](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/master/0621-task-scheduler) |
+| [0721-accounts-merge](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0721-accounts-merge/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -81,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/master/0257-binary-tree-paths) |
 | [0547-number-of-provinces](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0547-number-of-provinces/) | Medium |
 | [0695-max-area-of-island](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0695-max-area-of-island/) | Medium |
+| [0721-accounts-merge](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0721-accounts-merge/) | Medium |
 | [0733-flood-fill](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0733-flood-fill/) | Easy |
 | [0841-keys-and-rooms](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0841-keys-and-rooms/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -110,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0542-01-matrix/) | Medium |
 | [0547-number-of-provinces](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0547-number-of-provinces/) | Medium |
 | [0695-max-area-of-island](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0695-max-area-of-island/) | Medium |
+| [0721-accounts-merge](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0721-accounts-merge/) | Medium |
 | [0733-flood-fill](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0733-flood-fill/) | Easy |
 | [0841-keys-and-rooms](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0841-keys-and-rooms/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -126,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0257-binary-tree-paths](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/master/0257-binary-tree-paths) |
+| [0721-accounts-merge](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0721-accounts-merge/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -143,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0547-number-of-provinces/) | Medium |
 | [0695-max-area-of-island](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0695-max-area-of-island/) | Medium |
+| [0721-accounts-merge](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0721-accounts-merge/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
