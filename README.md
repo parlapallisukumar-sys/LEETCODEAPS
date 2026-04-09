@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0049-group-anagrams/) | Medium |
 | [0169-majority-element](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0169-majority-element/) | Easy |
+| [0198-house-robber](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0200-number-of-islands/) | Medium |
 | [0542-01-matrix](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0542-01-matrix/) | Medium |
 | [0621-task-scheduler](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/master/0621-task-scheduler) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0198-house-robber](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0198-house-robber/) | Medium |
 | [0542-01-matrix](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0542-01-matrix/) | Medium |
 ## Math
 | Problem Name | Difficulty |
