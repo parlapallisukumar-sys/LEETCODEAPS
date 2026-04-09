@@ -193,4 +193,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0169-majority-element/) | Easy |
+| [0190-reverse-bits](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0190-reverse-bits/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0190-reverse-bits](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0190-reverse-bits/) | Easy |
 <!---LeetCode Topics End-->
