@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0169-majority-element/) | Easy |
 | [0198-house-robber](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0200-number-of-islands/) | Medium |
+| [0322-coin-change](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0322-coin-change/) | Medium |
 | [0474-ones-and-zeroes](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0542-01-matrix](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0542-01-matrix/) | Medium |
 | [0621-task-scheduler](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/master/0621-task-scheduler) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0210-course-schedule-ii/) | Medium |
+| [0322-coin-change](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0322-coin-change/) | Medium |
 | [0542-01-matrix](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0542-01-matrix/) | Medium |
 | [0547-number-of-provinces](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0547-number-of-provinces/) | Medium |
 | [0695-max-area-of-island](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0695-max-area-of-island/) | Medium |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0062-unique-paths/) | Medium |
 | [0198-house-robber](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0198-house-robber/) | Medium |
+| [0322-coin-change](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0322-coin-change/) | Medium |
 | [0474-ones-and-zeroes](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0542-01-matrix](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0542-01-matrix/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0746-min-cost-climbing-stairs/) | Easy |
