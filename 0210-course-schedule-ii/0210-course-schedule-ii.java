@@ -1,46 +1,50 @@
 class Solution {
-    boolean dfs(List<List<Integer>> adj, boolean[] vis, boolean[] path, int curr, Stack<Integer> st) {
-        vis[curr] = true;
-        path[curr] = true;
-
-        for (Integer i : adj.get(curr)) {
-            if (!vis[i]) {
-                if (dfs(adj, vis, path, i, st))
-                    return true;
-            } else if (path[i]) {
+    public int[] findOrder(int n, int[][] p) {
+        HashMap<Integer,ArrayList<Integer>> map=new HashMap<>();
+        for(int i=0;i<n;i++){
+            map.put(i,new ArrayList<>());
+        }
+        for(int i=0;i<p.length;i++){
+            int v1=p[i][1];
+            int v2=p[i][0];
+            map.get(v1).add(v2);
+        }
+        System.out.print(map);
+        Stack<Integer> st=new Stack<>();
+        int[] vis=new int[n];
+        for(int i=0;i<n;i++){
+            if(vis[i]==0){
+                if(dfs(st,map,vis,i)){
+                    return new int[]{};
+                }
+            }
+        }
+        int[] arr=new int[st.size()];
+        int i=0;
+        System.out.print(st);
+        while(!st.isEmpty()){
+            arr[i]=st.pop();
+            i++; 
+       }
+       if(arr.length!=n){
+        return new int[]{};
+       }
+       return arr;
+        
+    }
+    public static boolean dfs(Stack<Integer> st, HashMap<Integer,ArrayList<Integer>> map,int[] vis,int i){
+        vis[i]=1;
+        for(int nbrs:map.get(i)){
+            if(vis[nbrs]==0){
+                dfs(st,map,vis,nbrs);
+            }
+            else if(vis[nbrs]==1){
                 return true;
             }
         }
-        st.add(curr);
-        path[curr] = false;
+        vis[i]=2;
+        st.push(i);
         return false;
     }
-
-    public int[] findOrder(int numCourses, int[][] prerequisites) {
-        List<List<Integer>> adj = new ArrayList<>();
-        for (int i = 0; i < numCourses; i++) {
-            adj.add(new ArrayList<>());
-        }
-        for (int[] arr : prerequisites) {
-            adj.get(arr[1]).add(arr[0]);
-        }
-        boolean[] vis = new boolean[numCourses];
-        boolean[] path = new boolean[numCourses];
-        Stack<Integer> st = new Stack<>();
-        for (int i = 0; i < numCourses; i++) {
-            if (!vis[i]) {
-                if (dfs(adj, vis, path, i, st))
-                    return new int[] {};
-            }
-        }
-
-        int[] ans = new int[numCourses];
-        int ind = 0;
-        while (!st.isEmpty()) {
-            ans[ind] = st.pop();
-            ind++;
-        }
-        return ans;
-
-    }
+    
 }
