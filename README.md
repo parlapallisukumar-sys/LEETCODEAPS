@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0200-number-of-islands/) | Medium |
 | [0322-coin-change](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0322-coin-change/) | Medium |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0474-ones-and-zeroes](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0542-01-matrix](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0542-01-matrix/) | Medium |
 | [0621-task-scheduler](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/master/0621-task-scheduler) |
@@ -36,12 +37,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0621-task-scheduler](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/master/0621-task-scheduler) |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0049-group-anagrams/) | Medium |
 | [0169-majority-element](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0169-majority-element/) | Easy |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0621-task-scheduler](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0721-accounts-merge/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0973-k-closest-points-to-origin/) | Medium |
