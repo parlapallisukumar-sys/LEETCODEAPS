@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0695-max-area-of-island/) | Medium |
 | [0721-accounts-merge](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0721-accounts-merge/) | Medium |
 | [0733-flood-fill](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0733-flood-fill/) | Easy |
+| [0929-unique-email-addresses](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0929-unique-email-addresses/) | Easy |
 | [0994-rotting-oranges](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0994-rotting-oranges/) | Medium |
 | [0997-find-the-town-judge](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0997-find-the-town-judge/) | Easy |
 ## Hash Table
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0202-happy-number/) | Easy |
 | [0621-task-scheduler](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0721-accounts-merge/) | Medium |
+| [0929-unique-email-addresses](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0929-unique-email-addresses/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0997-find-the-town-judge](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0997-find-the-town-judge/) | Easy |
 ## Greedy
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0257-binary-tree-paths](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/master/0257-binary-tree-paths) |
 | [0721-accounts-merge](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0721-accounts-merge/) | Medium |
+| [0929-unique-email-addresses](https://github.com/parlapallisukumar-sys/LEETCODEAPS/tree/main/0929-unique-email-addresses/) | Easy |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
